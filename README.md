@@ -29,7 +29,8 @@ UML DIAGRAMS:
 
 ##COMMUNICATION DIAGRAM
 
-<img width="928" height="704" alt="image" src="https://github.com/user-attachments/assets/6b82e31c-3ec1-4975-b5b3-1d15c2dba8ce" />
+<img width="928" height="704" alt="image" src="https://github.com/user-attachments/assets/516d14d2-1b34-4773-93c6-54c11859e4ea" />
+
 
 
 
